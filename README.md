@@ -1,3 +1,6 @@
+## Note to reader:
+**If you have stumbled across this, you probably won't want to clone it as this is customised for our systems. Clone [this project](https://github.com/tony/tmux-config) instead.**
+
 [Tmux](http://tmux.sourceforge.net/) is a terminal multiplexer. Tested with tmux 1.5+.
 
 This config has support for [tmux-mem-cpu](http://github.com/thewtex/tmux-mem-cpu-load).
